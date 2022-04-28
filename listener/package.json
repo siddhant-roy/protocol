@@ -1,0 +1,19 @@
+{
+  "name": "clickdee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simarpreet",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.5.4",
+    "json-to-txt": "^2.1.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.1",
+    "perf_hooks": "^0.0.1",
+    "web3": "^1.7.0"
+  }
+}
